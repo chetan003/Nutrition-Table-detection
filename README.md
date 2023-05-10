@@ -11,3 +11,6 @@ without any interpretation. The nutrition label lists the calories, carbohydrate
 fiber, protein, and vitamins in each serving of the item, making it easy to compare
 the nutrition of similar goods. It’s important to compare different brands of the same
 meal since nutrition information can vary greatly.
+
+
+In this project the neural network was trained to identify the table structure including rows and columns. For the deployment a streamlit app was developed. A user friendly UI was also developed in stramlit so that its easier for the user to operate on the app
